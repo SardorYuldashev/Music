@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Italic';
+    src: url('../fonts/Roboto/Roboto-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans-Bold';
+    src: url('../fonts/WorkSans/WorkSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans-Italic';
+    src: url('../fonts/WorkSans/WorkSans-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans-Regular';
+    src: url('../fonts/WorkSans/WorkSans-Regular.ttf');
+}

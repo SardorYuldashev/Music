@@ -1,0 +1,27 @@
+/* settings start */
+@import url(fonts.css);
+
+:root {
+    --RB-700: 'Roboto-Bold';
+    --R-It: 'Roboto-Italic';
+    --RR-400: 'Roboto-Regular';
+    --WB-700: 'WorkSans-Bold';
+    --WS-It: 'WorkSans-Italic';
+    --WR-700: 'WorkSans-Regular';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+/* settings end */
+/* **************************************** */
+/* header start */
